@@ -1,0 +1,83 @@
+[
+  {
+    "question": "the first superman film released in years ?",
+    "choice1": "10 Desember 1978",
+    "choice2": "02 Mai 1987",
+    "choice3": "10 September 1978",
+    "choice4": "17 Agustus 2020",
+    "answer": 1
+  },
+  {
+    "question": "the name of the newest spiderman homecoming actor'?",
+    "choice1": "Tom Holland",
+    "choice2": "Robert Downey",
+    "choice3": "Donald Groverd",
+    "choice4": "Chris Evans",
+    "answer": 1
+  },
+  {
+    "question": " the world's first film released in 1999 ?",
+    "choice1": "1895",
+    "choice2": "1990",
+    "choice3": "2020",
+    "choice4": "1977",
+    "answer": 1
+  },
+  {
+    "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away?",
+    "choice1": "Friday",
+    "choice2": "Jones",
+    "choice3": "Billy",
+    "choice4": "Wilson",
+    "answer": 4
+  },
+  {
+    "question": "Who starred in the film 1973 movie?",
+    "choice1": "Bruce Lee",
+    "choice2": "Jackie Chan",
+    "choice3": "Jet Li",
+    "choice4": "Yun-Fat Chow",
+    "answer": 1
+  },
+  {
+    "question": "One of the films adopted by Stephen King from the novel is?",
+    "choice1": "Friday the 13th ",
+    "choice2": "The Green Mile",
+    "choice3": "Maze Runner",
+    "choice4": "500 Days of Summer",
+    "answer": 2
+  },
+  {
+    "question": "What breed of dog was Marley in the film (2008) ?",
+    "choice1": "Friday",
+    "choice2": "Scorpion",
+    "choice3": "Marley",
+    "choice4": "Jhon",
+    "answer": 3
+  },
+  {
+    "question": "the main star of the star wars film Pira?",
+    "choice1": "Hayden Christensen",
+    "choice2": "Tony Clark",
+    "choice3": "Billy Shimso",
+    "choice4": "Natsha Wilson",
+    "answer": 1
+  },
+  {
+    "question": "One of the best Horror Movies directors in Indonesia ?",
+    "choice1": "Upi Avianto",
+    "choice2": "Teddy Soeriaatmatja",
+    "choice3": "Rudi Soedjarwo",
+    "choice4": "Joko Anwar",
+    "answer": 4
+  },
+  {
+    "question": "the director of the most popular film in the series harry potter?",
+    "choice1": "David Yates",
+    "choice2": "Mike Newell",
+    "choice3": "Chris Columbus",
+    "choice4": "all are correct",
+    "answer": 4
+  }
+
+]
